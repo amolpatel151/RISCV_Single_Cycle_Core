@@ -1,4 +1,4 @@
-# RISCV_Single_Cycle_Core
+# RISCV_Pipeline_Core
 This repository contains the design files of RISC-V Single Cycle Core
 
 # TOP Architecture
